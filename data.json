@@ -1,0 +1,279 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "ThS. A",
+            "value": 0,
+            "info": {
+                "trinhdo": 2,
+                "kinhnghiem": 3,
+                "dotuoi": 0,
+                "nghiencuu": 1,
+                "sanpham" : 1,
+                "linhvuc": [
+                    0.36, 0.18, 0.18, 0.04, 0.04, 0, 0.04, 0.16
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "name": "TS. B",
+            "value": 0,
+            "info": {
+                "trinhdo": 3,
+                "kinhnghiem": 7,
+                "dotuoi": 0,
+                "nghiencuu": 1,
+                "sanpham" : 0,
+                "linhvuc": [
+                    0.14, 0.14, 0.43, 0.03, 0.20, 0.03, 0, 0.03
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "TS. C",
+            "value": 0,
+            "info": {
+                "trinhdo": 3,
+                "kinhnghiem": 10,
+                "dotuoi": 1,
+                "nghiencuu": 0,
+                "sanpham" : 1,
+                "linhvuc": [
+                    0.21, 0.21, 0.11, 0.04, 0.32, 0.02, 0.02, 0.07
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "GS. D",
+            "value": 0,
+            "info": {
+                "trinhdo": 4,
+                "kinhnghiem": 20,
+                "dotuoi": 3,
+                "nghiencuu": 1,
+                "sanpham" : 0,
+                "linhvuc": [
+                    0.36, 0.09, 0.18, 0.18, 0.07, 0.02, 0, 0.1
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "GS. E",
+            "value": 0,
+            "info": {
+                "trinhdo": 4,
+                "kinhnghiem": 10,
+                "dotuoi": 3,
+                "nghiencuu": 1,
+                "sanpham" : 1,
+                "linhvuc": [
+                    0.09, 0.09, 0.09, 0.38, 0.09, 0.04, 0.09, 0.13
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "name": "TS. F",
+            "value": 0,
+            "info": {
+                "trinhdo": 2,
+                "kinhnghiem": 8,
+                "dotuoi": 2,
+                "nghiencuu": 2,
+                "sanpham": 0,
+                "linhvuc": [
+                    0.1, 0.2, 0.2, 0.05, 0.15, 0.2, 0.05, 0.05
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "name": "PGS. G",
+            "value": 0,
+            "info": {
+                "trinhdo": 3,
+                "kinhnghiem": 12,
+                "dotuoi": 1,
+                "nghiencuu": 2,
+                "sanpham": 1,
+                "linhvuc": [
+                    0.25, 0.15, 0.1, 0.05, 0.2, 0.1, 0.1, 0.05
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "name": "ThS. H",
+            "value": 0,
+            "info": {
+                "trinhdo": 2,
+                "kinhnghiem": 4,
+                "dotuoi": 1,
+                "nghiencuu": 0,
+                "sanpham": 1,
+                "linhvuc": [
+                    0.3, 0.1, 0.15, 0.15, 0.1, 0.1, 0.05, 0.05
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "name": "GS. I",
+            "value": 0,
+            "info": {
+                "trinhdo": 4,
+                "kinhnghiem": 15,
+                "dotuoi": 2,
+                "nghiencuu": 1,
+                "sanpham": 2,
+                "linhvuc": [
+                    0.2, 0.15, 0.2, 0.1, 0.15, 0.05, 0.1, 0.05
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "name": "PGS. J",
+            "value": 0,
+            "info": {
+                "trinhdo": 3,
+                "kinhnghiem": 6,
+                "dotuoi": 0,
+                "nghiencuu": 1,
+                "sanpham": 0,
+                "linhvuc": [
+                    0.2, 0.3, 0.1, 0.05, 0.15, 0.05, 0.1, 0.05
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "name": "TS. K",
+            "value": 0,
+            "info": {
+                "trinhdo": 3,
+                "kinhnghiem": 5,
+                "dotuoi": 2,
+                "nghiencuu": 1,
+                "sanpham": 1,
+                "linhvuc": [
+                    0.2, 0.15, 0.25, 0.1, 0.05, 0.05, 0.15, 0.05
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "name": "ThS. L",
+            "value": 0,
+            "info": {
+                "trinhdo": 2,
+                "kinhnghiem": 6,
+                "dotuoi": 1,
+                "nghiencuu": 2,
+                "sanpham": 0,
+                "linhvuc": [
+                    0.1, 0.25, 0.1, 0.2, 0.15, 0.05, 0.05, 0.2
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "name": "PGS. M",
+            "value": 0,
+            "info": {
+                "trinhdo": 3,
+                "kinhnghiem": 8,
+                "dotuoi": 2,
+                "nghiencuu": 1,
+                "sanpham": 2,
+                "linhvuc": [
+                    0.15, 0.15, 0.2, 0.1, 0.1, 0.05, 0.1, 0.15
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "name": "GS. N",
+            "value": 0,
+            "info": {
+                "trinhdo": 4,
+                "kinhnghiem": 12,
+                "dotuoi": 3,
+                "nghiencuu": 2,
+                "sanpham": 1,
+                "linhvuc": [
+                    0.3, 0.1, 0.1, 0.05, 0.1, 0.2, 0.05, 0.1
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "name": "TS. O",
+            "value": 0,
+            "info": {
+                "trinhdo": 3,
+                "kinhnghiem": 10,
+                "dotuoi": 1,
+                "nghiencuu": 0,
+                "sanpham": 1,
+                "linhvuc": [
+                    0.1, 0.2, 0.3, 0.05, 0.1, 0.05, 0.1, 0.1
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "name": "ThS. P",
+            "value": 0,
+            "info": {
+                "trinhdo": 2,
+                "kinhnghiem": 4,
+                "dotuoi": 1,
+                "nghiencuu": 1,
+                "sanpham": 0,
+                "linhvuc": [
+                    0.25, 0.1, 0.15, 0.2, 0.05, 0.05, 0.1, 0.1
+                ]
+            }
+        }
+    ],
+
+    "linhvuc": [
+        {
+            "id": 0,
+            "label": "NLP"
+        },
+        {
+            "id": 1,
+            "label": "ML, AI"
+        },
+        {
+            "id": 2,
+            "label": "CV"
+        },
+        {
+            "id": 3,
+            "label": "Speech"
+        },
+        {
+            "id": 4,
+            "label": "Network"
+        },
+        {
+            "id": 5,
+            "label": "Project Management"
+        },
+        {
+            "id": 6,
+            "label": "Big Data"
+        },
+        {
+            "id": 7,
+            "label": "Others"
+        }
+    ]
+}
